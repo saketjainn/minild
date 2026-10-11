@@ -1,0 +1,7 @@
+# build outputs
+/minild
+/minild.exe
+/build/
+*.o
+*.obj
+*.exe
