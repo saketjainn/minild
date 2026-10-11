@@ -152,12 +152,3 @@ build.bat   build with MinGW g++ on Windows
 build.sh    build on Linux/macOS
 ```
 
-## References
-
-- Microsoft, *PE Format* specification (learn.microsoft.com)
-- Ian Lance Taylor, *Linkers* blog series
-- John R. Levine, *Linkers and Loaders*
-
-## License
-
-MIT
